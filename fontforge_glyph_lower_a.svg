@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 1000 1000"
-   sodipodi:docname="fontforge_glyph_A.svg">
+   sodipodi:docname="fontforge_glyph_lower_a.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -30,9 +30,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.04012831"
-     inkscape:cx="103.52457"
-     inkscape:cy="500.95309"
+     inkscape:zoom="0.054468211"
+     inkscape:cx="3974.5168"
+     inkscape:cy="-2889.8059"
      inkscape:window-x="162"
      inkscape:window-y="23"
      inkscape:current-layer="layer1"
@@ -44,10 +44,6 @@
        orientation="horizontal"
        position="200"
        id="guide5596" />
-    <sodipodi:guide
-       position="516.69828,812.3692"
-       orientation="0,1"
-       id="guide4135" />
   </sodipodi:namedview>
   <metadata
      id="metadata5594">
@@ -57,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,9 +62,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="path4134"
-       d="M 442.60818,187.6308 200.71008,800 l 115.505,0 52.2926,-128.5729 296.3811,0 52.3031,128.5729 115.4946,0 -239.7184,-612.3692 -150.3599,0 z m 69.7307,104.6064 111.1453,272.4038 -220.1007,0 108.9554,-272.4038 z"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3366"
+       d="m 558.62484,317.41689 c -97.8834,-0.7163 -200.3892,46.2537 -218.8884,143.0456 l 110.5687,0 c 33.3973,-88.5287 219.9854,-55.7826 191.1937,46.0665 -236.3395,-16.2364 -384.9736,44.575 -297.1274,229.2932 38.4984,80.9523 226.4919,85.5174 301.7414,12.5808 l 11.5194,46.0673 92.1335,0 0,-334.0078 c 0,-93.9273 -93.2577,-142.3298 -191.1409,-143.0456 z m 14.2098,273.5731 c 20.6613,-0.059 43.0736,0.6237 66.951,1.9652 7.5465,85.9329 -22.3104,127.973 -182.2387,107.0582 -29.1822,-3.8164 -33.4081,-43.5345 -32.6663,-59.2672 1.6623,-35.26 58.4218,-49.493 147.954,-49.7562 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

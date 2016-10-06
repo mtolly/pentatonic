@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 1000 1000"
-   sodipodi:docname="fontforge_glyph_A.svg">
+   sodipodi:docname="fontforge_glyph_lower_o.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -30,9 +30,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.04012831"
-     inkscape:cx="103.52457"
-     inkscape:cy="500.95309"
+     inkscape:zoom="0.054468211"
+     inkscape:cx="3974.5168"
+     inkscape:cy="-2889.8059"
      inkscape:window-x="162"
      inkscape:window-y="23"
      inkscape:current-layer="layer1"
@@ -44,10 +44,6 @@
        orientation="horizontal"
        position="200"
        id="guide5596" />
-    <sodipodi:guide
-       position="516.69828,812.3692"
-       orientation="0,1"
-       id="guide4135" />
   </sodipodi:namedview>
   <metadata
      id="metadata5594">
@@ -57,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,9 +62,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="path4134"
-       d="M 442.60818,187.6308 200.71008,800 l 115.505,0 52.2926,-128.5729 296.3811,0 52.3031,128.5729 115.4946,0 -239.7184,-612.3692 -150.3599,0 z m 69.7307,104.6064 111.1453,272.4038 -220.1007,0 108.9554,-272.4038 z"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       sodipodi:nodetypes="ssssssssss"
+       inkscape:connector-curvature="0"
+       id="path4494"
+       d="m 493.25159,311.60119 c -119.355,-1.49009 -238.944,93.79675 -240.933,238.09501 -1.841,133.3411 96.163,247.6641 239.59,250.2686 116.981,2.1245 243.633,-92.0924 243.633,-236.7386 0,-136.99699 -96.557,-249.80559 -242.29,-251.62501 z m 4.038,103.89341 c 80.284,2.74008 126.921,57.25342 126.921,143.6709 0,85.7572 -60.168,141.7271 -133.651,138.9772 -73.974,-2.768 -125.494,-52.5582 -120.8,-155.2112 4.318,-94.5468 66.268,-129.52774 127.53,-127.4369 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.76159608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
