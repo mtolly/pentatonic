@@ -1,0 +1,10 @@
+All ASCII pairs (not including chars with issues) with the following characters are kerned:
+A
+&
+
+These characters have issues in the metrics window, and need to be fixed later:
+#
+/
+\
+[
+]
