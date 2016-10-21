@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1475629050
-ModificationTime: 1476982840
+ModificationTime: 1477011758
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,7 +47,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 90
-WinInfo: 21 21 6
+WinInfo: 0 24 11
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -87,7 +87,7 @@ SplineSet
  346 520 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 89 -90 "HorizKernPairs" 7 -24 "HorizKernPairs" 48 -93 "HorizKernPairs" 22 -120 "HorizKernPairs" 46 -49 "HorizKernPairs" 2 -49 "HorizKernPairs"
+Kerns2: 15 -50 "HorizKernPairs" 21 -40 "HorizKernPairs" 63 -79 "HorizKernPairs" 58 -79 "HorizKernPairs" 89 -90 "HorizKernPairs" 7 -24 "HorizKernPairs" 48 -93 "HorizKernPairs" 22 -120 "HorizKernPairs" 46 -49 "HorizKernPairs" 2 -49 "HorizKernPairs"
 EndChar
 
 StartChar: B
@@ -150,7 +150,7 @@ SplineSet
  38 518 192 643 346 643 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 0 -24 "HorizKernPairs"
+Kerns2: 24 -55 "HorizKernPairs" 0 -24 "HorizKernPairs"
 EndChar
 
 StartChar: D
@@ -175,7 +175,7 @@ SplineSet
  294 106 l 2
 EndSplineSet
 Validated: 1
-Kerns2: 0 -37 "HorizKernPairs"
+Kerns2: 25 -50 "HorizKernPairs" 70 -31 "HorizKernPairs" 68 -31 "HorizKernPairs" 0 -37 "HorizKernPairs"
 EndChar
 
 StartChar: E
@@ -265,7 +265,7 @@ SplineSet
  44 629 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 0 -68 "HorizKernPairs"
+Kerns2: 49 -26 "HorizKernPairs" 70 -94 "HorizKernPairs" 0 -68 "HorizKernPairs"
 EndChar
 
 StartChar: G
@@ -299,7 +299,7 @@ SplineSet
  285 371 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 0 -18 "HorizKernPairs"
+Kerns2: 25 -50 "HorizKernPairs" 0 -18 "HorizKernPairs"
 EndChar
 
 StartChar: H
@@ -392,6 +392,7 @@ SplineSet
  44 629 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 47 -47 "HorizKernPairs"
 EndChar
 
 StartChar: L
@@ -411,6 +412,7 @@ SplineSet
  44 627 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 20 -110 "HorizKernPairs" 58 -68 "HorizKernPairs"
 EndChar
 
 StartChar: M
@@ -490,6 +492,7 @@ SplineSet
  567 441 488 535 365 539 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 24 -55 "HorizKernPairs" 25 -50 "HorizKernPairs" 0 -50 "HorizKernPairs"
 EndChar
 
 StartChar: P
@@ -516,6 +519,7 @@ SplineSet
  381 353 l 2
 EndSplineSet
 Validated: 1
+Kerns2: 0 -95 "HorizKernPairs" 92 -105 "HorizKernPairs" 70 -121 "HorizKernPairs" 68 -105 "HorizKernPairs"
 EndChar
 
 StartChar: Q
@@ -581,6 +585,7 @@ SplineSet
  379 370 l 2
 EndSplineSet
 Validated: 1
+Kerns2: 24 -11 "HorizKernPairs"
 EndChar
 
 StartChar: S
@@ -639,7 +644,7 @@ SplineSet
  33 626 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 52 -18 "HorizKernPairs" 51 -9 "HorizKernPairs" 50 -18 "HorizKernPairs" 48 -18 "HorizKernPairs" 47 -37 "HorizKernPairs" 45 -74 "HorizKernPairs" 44 -18 "HorizKernPairs" 42 -18 "HorizKernPairs" 41 -74 "HorizKernPairs" 40 -65 "HorizKernPairs" 33 -74 "HorizKernPairs" 30 -111 "HorizKernPairs" 29 -111 "HorizKernPairs" 27 -102 "HorizKernPairs" 31 -111 "HorizKernPairs"
+Kerns2: 52 -18 "HorizKernPairs" 51 -72 "HorizKernPairs" 50 -18 "HorizKernPairs" 48 -18 "HorizKernPairs" 47 -37 "HorizKernPairs" 45 -74 "HorizKernPairs" 44 -18 "HorizKernPairs" 42 -18 "HorizKernPairs" 41 -79 "HorizKernPairs" 40 -65 "HorizKernPairs" 33 -74 "HorizKernPairs" 30 -111 "HorizKernPairs" 29 -111 "HorizKernPairs" 27 -102 "HorizKernPairs" 31 -111 "HorizKernPairs"
 EndChar
 
 StartChar: U
@@ -663,6 +668,7 @@ SplineSet
  601 263 l 2
 EndSplineSet
 Validated: 1
+Kerns2: 0 -40 "HorizKernPairs"
 EndChar
 
 StartChar: V
@@ -712,7 +718,7 @@ SplineSet
  28 627 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 30 -50 "HorizKernPairs" 43 -50 "HorizKernPairs" 33 -50 "HorizKernPairs" 29 -50 "HorizKernPairs" 41 -50 "HorizKernPairs" 71 -70 "HorizKernPairs"
+Kerns2: 70 -67 "HorizKernPairs" 30 -50 "HorizKernPairs" 43 -50 "HorizKernPairs" 33 -50 "HorizKernPairs" 29 -50 "HorizKernPairs" 41 -50 "HorizKernPairs" 71 -70 "HorizKernPairs"
 EndChar
 
 StartChar: X
@@ -738,6 +744,7 @@ SplineSet
  34 627 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 67 -40 "HorizKernPairs" 32 -31 "HorizKernPairs" 15 -55 "HorizKernPairs" 2 -55 "HorizKernPairs" 48 -57 "HorizKernPairs"
 EndChar
 
 StartChar: Y
@@ -760,7 +767,7 @@ SplineSet
  26 627 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 52 -50 "HorizKernPairs" 51 -43 "HorizKernPairs" 50 -49 "HorizKernPairs" 49 -61 "HorizKernPairs" 48 -62 "HorizKernPairs" 47 -49 "HorizKernPairs" 46 -31 "HorizKernPairs" 45 -98 "HorizKernPairs" 44 -49 "HorizKernPairs" 43 -110 "HorizKernPairs" 42 -43 "HorizKernPairs" 40 -55 "HorizKernPairs" 39 -31 "HorizKernPairs" 32 -44 "HorizKernPairs" 31 -110 "HorizKernPairs" 30 -110 "HorizKernPairs" 27 -110 "HorizKernPairs" 33 -110 "HorizKernPairs" 29 -110 "HorizKernPairs" 41 -110 "HorizKernPairs"
+Kerns2: 2 -50 "HorizKernPairs" 7 -50 "HorizKernPairs" 15 -50 "HorizKernPairs" 0 -116 "HorizKernPairs" 52 -50 "HorizKernPairs" 51 -43 "HorizKernPairs" 50 -49 "HorizKernPairs" 49 -61 "HorizKernPairs" 48 -62 "HorizKernPairs" 47 -49 "HorizKernPairs" 46 -31 "HorizKernPairs" 45 -98 "HorizKernPairs" 44 -49 "HorizKernPairs" 43 -110 "HorizKernPairs" 42 -43 "HorizKernPairs" 40 -55 "HorizKernPairs" 39 -31 "HorizKernPairs" 32 -44 "HorizKernPairs" 31 -110 "HorizKernPairs" 30 -110 "HorizKernPairs" 27 -110 "HorizKernPairs" 33 -110 "HorizKernPairs" 29 -110 "HorizKernPairs" 41 -110 "HorizKernPairs"
 EndChar
 
 StartChar: Z
@@ -853,7 +860,7 @@ SplineSet
  425 316 364 380 289 380 c 4
 EndSplineSet
 Validated: 1
-Kerns2: 23 -50 "HorizKernPairs" 22 -43 "HorizKernPairs" 25 -110 "HorizKernPairs" 20 -83 "HorizKernPairs"
+Kerns2: 48 -41 "HorizKernPairs" 23 -50 "HorizKernPairs" 22 -43 "HorizKernPairs" 25 -110 "HorizKernPairs" 20 -83 "HorizKernPairs"
 EndChar
 
 StartChar: c
@@ -877,7 +884,7 @@ SplineSet
  35 383 144 495 278 495 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 23 -50 "HorizKernPairs" 49 -30 "HorizKernPairs" 22 -49 "HorizKernPairs" 25 -110 "HorizKernPairs" 20 -83 "HorizKernPairs"
+Kerns2: 65 -60 "HorizKernPairs" 46 -31 "HorizKernPairs" 50 -50 "HorizKernPairs" 23 -50 "HorizKernPairs" 49 -30 "HorizKernPairs" 22 -49 "HorizKernPairs" 25 -110 "HorizKernPairs" 20 -83 "HorizKernPairs"
 EndChar
 
 StartChar: d
@@ -934,7 +941,7 @@ SplineSet
  381 354 336 391 277 391 c 4
 EndSplineSet
 Validated: 1
-Kerns2: 25 -110 "HorizKernPairs" 48 -37 "HorizKernPairs" 20 -102 "HorizKernPairs" 22 -37 "HorizKernPairs"
+Kerns2: 65 -60 "HorizKernPairs" 50 -50 "HorizKernPairs" 46 -21 "HorizKernPairs" 70 -31 "HorizKernPairs" 68 -26 "HorizKernPairs" 25 -110 "HorizKernPairs" 48 -37 "HorizKernPairs" 20 -102 "HorizKernPairs" 22 -37 "HorizKernPairs"
 EndChar
 
 StartChar: f
@@ -963,7 +970,7 @@ SplineSet
  94 493 l 2
 EndSplineSet
 Validated: 1
-Kerns2: 22 6 "HorizKernPairs"
+Kerns2: 31 -31 "HorizKernPairs" 22 6 "HorizKernPairs"
 EndChar
 
 StartChar: g
@@ -998,7 +1005,7 @@ SplineSet
  150 180 211 118 286 118 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 25 -49 "HorizKernPairs" 20 -36 "HorizKernPairs"
+Kerns2: 50 -14 "HorizKernPairs" 25 -49 "HorizKernPairs" 20 -36 "HorizKernPairs"
 EndChar
 
 StartChar: h
@@ -1026,7 +1033,7 @@ SplineSet
  158 419 l 1xec
 EndSplineSet
 Validated: 1
-Kerns2: 22 -37 "HorizKernPairs" 25 -49 "HorizKernPairs"
+Kerns2: 48 -25 "HorizKernPairs" 51 -25 "HorizKernPairs" 22 -37 "HorizKernPairs" 25 -49 "HorizKernPairs"
 EndChar
 
 StartChar: i
@@ -1101,7 +1108,7 @@ SplineSet
  44 646 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 22 -31 "HorizKernPairs" 25 -49 "HorizKernPairs" 33 -12 "HorizKernPairs" 29 -37 "HorizKernPairs" 41 -37 "HorizKernPairs" 31 -37 "HorizKernPairs" 45 -18 "HorizKernPairs"
+Kerns2: 41 -45 "HorizKernPairs" 29 -45 "HorizKernPairs" 31 -45 "HorizKernPairs" 22 -31 "HorizKernPairs" 25 -49 "HorizKernPairs" 33 -12 "HorizKernPairs" 45 -18 "HorizKernPairs"
 EndChar
 
 StartChar: l
@@ -1211,7 +1218,7 @@ SplineSet
  416 328 368 384 286 387 c 4
 EndSplineSet
 Validated: 1
-Kerns2: 23 -50 "HorizKernPairs" 49 -30 "HorizKernPairs" 22 -62 "HorizKernPairs" 25 -110 "HorizKernPairs" 20 -83 "HorizKernPairs" 48 -31 "HorizKernPairs"
+Kerns2: 65 -60 "HorizKernPairs" 33 -10 "HorizKernPairs" 50 -50 "HorizKernPairs" 46 -21 "HorizKernPairs" 23 -50 "HorizKernPairs" 49 -30 "HorizKernPairs" 22 -62 "HorizKernPairs" 25 -110 "HorizKernPairs" 20 -83 "HorizKernPairs" 48 -31 "HorizKernPairs"
 EndChar
 
 StartChar: p
@@ -1298,7 +1305,7 @@ SplineSet
  43 481 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 43 -30 "HorizKernPairs" 33 -30 "HorizKernPairs" 30 -30 "HorizKernPairs" 41 -30 "HorizKernPairs" 31 -30 "HorizKernPairs" 29 -30 "HorizKernPairs" 27 -30 "HorizKernPairs" 22 -31 "HorizKernPairs" 25 -43 "HorizKernPairs" 20 -18 "HorizKernPairs"
+Kerns2: 70 -68 "HorizKernPairs" 68 -79 "HorizKernPairs" 43 -30 "HorizKernPairs" 33 -30 "HorizKernPairs" 30 -30 "HorizKernPairs" 41 -30 "HorizKernPairs" 31 -30 "HorizKernPairs" 29 -30 "HorizKernPairs" 27 -30 "HorizKernPairs" 22 -31 "HorizKernPairs" 25 -43 "HorizKernPairs" 20 -18 "HorizKernPairs"
 EndChar
 
 StartChar: s
@@ -1371,7 +1378,7 @@ SplineSet
  87 598 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 22 -31 "HorizKernPairs" 25 -43 "HorizKernPairs"
+Kerns2: 33 -21 "HorizKernPairs" 29 -21 "HorizKernPairs" 41 -15 "HorizKernPairs" 31 -26 "HorizKernPairs" 22 -31 "HorizKernPairs" 25 -43 "HorizKernPairs"
 EndChar
 
 StartChar: u
@@ -1395,7 +1402,7 @@ SplineSet
  474 202 l 6
 EndSplineSet
 Validated: 1
-Kerns2: 22 -20 "HorizKernPairs" 25 -43 "HorizKernPairs"
+Kerns2: 27 -21 "HorizKernPairs" 22 -20 "HorizKernPairs" 25 -43 "HorizKernPairs"
 EndChar
 
 StartChar: v
@@ -1471,7 +1478,7 @@ SplineSet
  34 481 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 22 -20 "HorizKernPairs" 25 -31 "HorizKernPairs"
+Kerns2: 33 -30 "HorizKernPairs" 31 -50 "HorizKernPairs" 29 -50 "HorizKernPairs" 41 -50 "HorizKernPairs" 22 -20 "HorizKernPairs" 25 -31 "HorizKernPairs"
 EndChar
 
 StartChar: y
@@ -1649,6 +1656,7 @@ SplineSet
  220 630 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 0 -79 "HorizKernPairs"
 EndChar
 
 StartChar: numbersign
@@ -1827,6 +1835,7 @@ SplineSet
  38 625 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 0 -79 "HorizKernPairs"
 EndChar
 
 StartChar: parenleft
@@ -1848,6 +1857,7 @@ SplineSet
  34 439 122 615 311 647 c 1
 EndSplineSet
 Validated: 1
+Kerns2: 69 -60 "HorizKernPairs" 29 -60 "HorizKernPairs" 41 -60 "HorizKernPairs" 31 -60 "HorizKernPairs"
 EndChar
 
 StartChar: parenright
@@ -1925,6 +1935,7 @@ SplineSet
  160 507 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 24 -40 "HorizKernPairs"
 EndChar
 
 StartChar: comma
@@ -1960,6 +1971,7 @@ SplineSet
  48 248 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 65 -60 "HorizKernPairs"
 EndChar
 
 StartChar: period
@@ -2551,12 +2563,10 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 94
-Width: 253
+Width: 203
 VWidth: 0
 Flags: W
 LayerCount: 3
-Fore
-Validated: 1
 EndChar
 EndChars
 EndSplineFont
